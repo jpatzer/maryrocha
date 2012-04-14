@@ -14,6 +14,7 @@ Personal training and semi-private group trainin
 
 * Personal Training
 * Group Training
+Mond- Frid 6 am
 * Class Training
 
 INCLUDE IMG :: [Picture of Mary with class?]

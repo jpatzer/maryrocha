@@ -15,3 +15,4 @@ My name is Mary Rocha. I am a **personal trainer** that emphasizes the use of **
 * Class Training
 
 INCLUDE IMG :: [Picture of Mary with class?]
+

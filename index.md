@@ -18,3 +18,4 @@ Mond- Frid 6 am
 * Class Training
 
 INCLUDE IMG :: [Picture of Mary with class?]
+
